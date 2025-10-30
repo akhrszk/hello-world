@@ -36,3 +36,4 @@ description: "GitHub Pages + Jekyll で作るワンページサイト"
 # 例: ローカルでjekyllプレビュー
 bundle install
 bundle exec jekyll serve --livereload
+```
